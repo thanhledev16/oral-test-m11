@@ -1,0 +1,24 @@
+h1 {
+    color: aqua;
+}
+
+#container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+#search_icon {
+    width: 30px;
+    height: 30px;
+    background-image: url(https://store.cloudflare.steamstatic.com/public/images/v6/search_icon_btn.png);
+  }
+
+  #search_input {
+    height: 30px;
+    width: 50%;
+    margin-left: 2px;
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+  }
